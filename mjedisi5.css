@@ -1,0 +1,9 @@
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 15px;
+  transition: background-color 0.3s;
+}
+nav a:hover {
+  background-color: #ffffff33; /* gjysëm transparencë e bardhë */
+}

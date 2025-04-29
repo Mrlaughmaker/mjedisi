@@ -1,0 +1,11 @@
+@keyframes fadeInDown {
+  from { opacity: 0; transform: translateY(-50px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+header {
+  background: #2E8B57;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  animation: fadeInDown 1s ease-out;
+}
